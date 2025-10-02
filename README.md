@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anas7089" alt="anas7089" /></a> </p>
 
-- 🔭 I’m currently working on [NO_CHURN_TELECOM](https://github.com/Anas7089/NO_CHURN_TELECOM)
+- 🔭 I’m currently working on [Fashion_Recommendation](https://github.com/Anas7089/Fashion_Recommendation)
 
 - 🌱 I’m currently learning **Deep learning**
 
